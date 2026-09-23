@@ -1,6 +1,5 @@
-# Data-Analysis-Portfolio-projects
 
-# 🍕 Pizza Sales End-to-End SQL Data Analysis
+# 🍕 Pizza Sales Data Analysis with SQL
 
 An end-to-end data analysis project using MySQL to evaluate operational performance, sales trends, and customer ordering behavior for a retail pizza chain.
 
